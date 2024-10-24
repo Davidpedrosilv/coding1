@@ -1,4 +1,4 @@
-//Apresentação
+/*Apresentação
 const nome = "Pedro"
 let idade = "28"
 console.log('Olá, meu nome é Pedro e tenho 28 anos');
@@ -78,23 +78,4 @@ var alt = 1.75; // Altura em metros
 var imc = peso / (alt * alt); // Cálculo do IMC
 console.log("O IMC é: " + imc.toFixed(2));
 
-console.log ("FIM !!!");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+console.log ("FIM !!!");/*/
